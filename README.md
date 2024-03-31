@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Jay!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>🔭 I’m currently working on: </b>
+  - Building a web server in rust
+  - Implementing numerical methods via Python
+- <b>🌱 I’m currently learning: </b>
+  - Rust, Binary Exploitation, Active Directory, Networking, Powershell and Bash Scripting 
+
 
 <!--
-**Mister-Lasser/Mister-Lasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
