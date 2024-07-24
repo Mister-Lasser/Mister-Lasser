@@ -1,12 +1,13 @@
 <h1>Hi, I'm Jay!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 About me:</h2>
 
+- <b>⚡Languages & I know:</b>
+  - Java, C, Python
 - <b>🔭 I’m currently working on: </b>
-  - Building a web server in rust
-  - Implementing numerical methods via Python
+  - redis clone in C++
 - <b>🌱 I’m currently learning: </b>
-  - Rust, Binary Exploitation, Active Directory, Networking, Powershell and Bash Scripting 
+  - Spring Boot, C++, Rust, Binary Exploitation, Bash Scripting 
 
 
 <!--
